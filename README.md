@@ -7,5 +7,7 @@
 
 
 ### [Nix & Flakes](https://nix.dev/index.html) enthusiast!
-### Devbox, Docker, Kubernetes, Coolify enjoyer!
+### Home-Manager, Devbox, Docker enjoyer!
 ### Neovim & tmux, btw!
+
+### My [.dotfiles](https://github.com/cris-the-creator/.dotfiles)
