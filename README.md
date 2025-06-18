@@ -1,10 +1,7 @@
-## Hi there 👋
+Actually building tools i actually want myself, actually!
 
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## Current Projects
+- **[Lash Editor](link)** - Flash-inspired elegant editor for games
+- **[Lua Prophecy]** - Fluent mocking framework for Lua testing
+- **[Project Game] - Secrectly cooking something here
 
-
-### Neovim & tmux, btw!
-### My [.dotfiles](https://github.com/cris-the-creator/.dotfiles)
